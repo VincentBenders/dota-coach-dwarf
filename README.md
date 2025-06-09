@@ -1,5 +1,5 @@
 # The dota coach dwarf
-For this project you need to have nodejs
+For this project you need to have nodejs installed
 
 After cloning the project on github you need to run 'npm i' to install all the packages.
 When that is done you can use 'npm run dev' to start the project.
